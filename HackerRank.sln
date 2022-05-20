@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ratios", "Ratios\Ratios.csproj", "{C817CFF7-16EA-4073-A33A-AE0E95676356}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxMin", "MaxMin\MaxMin.csproj", "{E0678B26-933B-479B-A32B-2947011A7B3F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeConversion", "TimeConversion\TimeConversion.csproj", "{9959D2C5-4C49-4EA6-9408-80239D593C5B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheMedian", "FindTheMedian\FindTheMedian.csproj", "{665E75A3-1A0A-418C-AFEE-ECB53C0AF84E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumDiagonal", "SumDiagonal\SumDiagonal.csproj", "{6E8AAE32-2AE1-47F7-8D04-BF98E56B9CD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestPositive", "SmallestPositive\SmallestPositive.csproj", "{871B681F-9997-49B7-A3B9-2E0C538ADB4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C817CFF7-16EA-4073-A33A-AE0E95676356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C817CFF7-16EA-4073-A33A-AE0E95676356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C817CFF7-16EA-4073-A33A-AE0E95676356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C817CFF7-16EA-4073-A33A-AE0E95676356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0678B26-933B-479B-A32B-2947011A7B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0678B26-933B-479B-A32B-2947011A7B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0678B26-933B-479B-A32B-2947011A7B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0678B26-933B-479B-A32B-2947011A7B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9959D2C5-4C49-4EA6-9408-80239D593C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9959D2C5-4C49-4EA6-9408-80239D593C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9959D2C5-4C49-4EA6-9408-80239D593C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9959D2C5-4C49-4EA6-9408-80239D593C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{665E75A3-1A0A-418C-AFEE-ECB53C0AF84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665E75A3-1A0A-418C-AFEE-ECB53C0AF84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665E75A3-1A0A-418C-AFEE-ECB53C0AF84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665E75A3-1A0A-418C-AFEE-ECB53C0AF84E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E8AAE32-2AE1-47F7-8D04-BF98E56B9CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E8AAE32-2AE1-47F7-8D04-BF98E56B9CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E8AAE32-2AE1-47F7-8D04-BF98E56B9CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E8AAE32-2AE1-47F7-8D04-BF98E56B9CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871B681F-9997-49B7-A3B9-2E0C538ADB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871B681F-9997-49B7-A3B9-2E0C538ADB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871B681F-9997-49B7-A3B9-2E0C538ADB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871B681F-9997-49B7-A3B9-2E0C538ADB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9652BFA9-435E-4DA2-AAB5-4D67B48A940C}
+	EndGlobalSection
+EndGlobal
